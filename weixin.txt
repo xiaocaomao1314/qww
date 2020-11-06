@@ -1,2 +1,3 @@
 access_token_url: https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=%s&secret=%s
 jsapi_ticket: https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=%s&type=jsapi
+第一个接口是获取token  第二个接口获取签名
